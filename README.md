@@ -1,8 +1,6 @@
 # fc_week3_2 assignments: Loop
 
-1.  Write a program that displays a table of speeds in kilometers per hour (kph) with their values converted to miles per hour (mph). The table should display the speeds from 40 kilometers per hour through 120 kilometers per hour, in increments of 10 kilometers per hour. In other words, it should display 40 kph, 50 kph, 60 kph and so forth, up through 120 kph.
-
-mph = kph*0.6214
+1. A country club, which currently charges $3,000 per year for membership, has announced it will increase its membership fee by 3 percent each year for the next five years. Write a program that uses a loop to display the projected rates for each of the next five years.
 
 
 2.  Write a program with a loop that lets the user enter a series of integers, followed by the end sentinel −99 to signal the end of the series. After all the numbers have been entered, the program should display the largest and smallest numbers entered.
